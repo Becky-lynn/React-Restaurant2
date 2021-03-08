@@ -56,9 +56,14 @@ export default function Home() {
     ];
     const desserts = [
         {
-            "name": "Pie",
+            "name": "Pumpkin Pie",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ1_Xj0qlHHnDIRD5dSk32vE4-DrV3U-00Cug&usqp=CAU",
             "description": "Homemade Pumpkin Pie with a dollop of whip cream."
+        },
+        {
+            "name": "Caramel Apple Pie with Pecans",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-grla-XoS2fT_oHBVnF8g1mEMuznuXfZ1KQ&usqp=CAU",
+            "description": "We dress up a traditional apple pie with pecans and carmel sauce."
         }
     ];
    return (
